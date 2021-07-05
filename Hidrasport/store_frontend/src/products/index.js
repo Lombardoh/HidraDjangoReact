@@ -1,5 +1,7 @@
-import { ProductList } from "./components";
+import { ProductList, ProductView, ProductFilterView } from "./components";
 
 export{
-    ProductList
+    ProductList,
+    ProductView,
+    ProductFilterView
 }
